@@ -1,0 +1,7 @@
+table tr.error td.status {
+  background: #a94442;
+}
+
+table tr.success td.status {
+  background: #3c763d;
+}
